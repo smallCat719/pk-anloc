@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>2026.01.12.1</version>
-    <url>\\192.168.1.19\update\nhathuoc\update.zip</url>
+    <url>https://raw.githubusercontent.com/smallCat719/pk-anloc/refs/heads/main/KHAMBENH/update.xml/update.zip</url>
     <changelog></changelog>
     <mandatory>true</mandatory>
 </item>
